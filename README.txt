@@ -2,7 +2,7 @@ Haberman's data set contains data from the study conducted in University of Chic
 cancer.
 
 
-There is 306 row consists of 4 columns(features and class) : age,year,nodes,status
+There is 306 rows consists of 4 columns(features and class) : age,year,nodes,status
 
 1. Age is containing that at what age they undergo for operation(feature).
 2. Year is representing as which year they undergo for operation.(feature)
